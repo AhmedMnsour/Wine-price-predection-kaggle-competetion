@@ -3,13 +3,13 @@ This repo shows our proposed solution for the kaggle competition "Predict the pr
 
 This solution was crafted as part of the african master of machine intelligence.
 
-The data summarize 258210 wine reviews:
-• 175000 are the training set, the data on which to train your models;
+The data summarize 258210 wine reviews:<br>
+• 175000 are the training set, the data on which to train your models.<br>
 • the remaining 83210 observations constitute the test set.
 
 # File description:
-train.csv - the training set
-test.csv - the test set
+train.csv - the training set. <br>
+test.csv - the test set.<br>
  
 # Data fields:
 country (String) The country that the wine is from
