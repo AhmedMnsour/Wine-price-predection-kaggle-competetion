@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+matplotlib
+xgboost == 0.90 
+scikit-learn    
+scipy
